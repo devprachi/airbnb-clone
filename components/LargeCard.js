@@ -9,6 +9,7 @@ const LargeCards = ({ img, title, description, buttonText }) => {
           layout="fill"
           objectFit="cover"
           className="rounded-2xl"
+          alt="Card airbnb clone"
         />
       </div>
       <div className="absolute top-32 left-12">
